@@ -1,2 +1,2 @@
-# 1.Fuctional-Water
+# 1.Functional-Water
 First HTML and CSS Project
